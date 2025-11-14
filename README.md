@@ -22,4 +22,4 @@
 
 ### 方法一：使用 curl
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/你的用户名/x-ui-auto-install/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xy83953441-hue/x-ui-auto-install/main/install.sh)
