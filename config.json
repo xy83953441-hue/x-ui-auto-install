@@ -1,1 +1,27 @@
 
+{
+    "panelMode": "new",
+    "web": {
+        "host": "0.0.0.0",
+        "port": 54321,
+        "certFile": "",
+        "keyFile": "",
+        "maxFileSize": 10485760
+    },
+    "database": {
+        "type": "sqlite3",
+        "host": "",
+        "port": 0,
+        "user": "",
+        "password": "",
+        "name": "",
+        "dbFile": "/etc/x-ui/x-ui.db",
+        "tablePrefix": "x_",
+        "sslMode": ""
+    },
+    "log": {
+        "level": "info",
+        "access": "",
+        "error": ""
+    }
+}
